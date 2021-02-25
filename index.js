@@ -1,4 +1,4 @@
-// alert ("zintis was here")//invoke a function
+// alert ()//invoke a function
 var firstName = "Lismel"// assigning a string to the variable first name
 var lastName = "Rodriguez"
 var age = 33
